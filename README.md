@@ -22,5 +22,5 @@ Programming Languages: 🐍 🐭 🦀 🌐
 OS: OSX
 WM: M1 Pro
 Shell: Zsh
-Editor: VSCode/PyCharm/Goland
+Editor: Cursor/PyCharm/Goland
 ```
